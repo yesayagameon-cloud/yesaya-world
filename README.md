@@ -39,7 +39,7 @@ width:85%;
 max-width:600px;
 }
 
-.gallery img{
+gallery img{
 width:120px;
 margin:10px;
 border-radius:10px;
@@ -49,7 +49,8 @@ button{
 padding:12px 25px;
 font-size:16px;
 border:none;
-border-radius:10px;ackground:#00eaff;
+border-radius:10px;
+background:#00eaff;
 cursor:pointer;
 }
 
